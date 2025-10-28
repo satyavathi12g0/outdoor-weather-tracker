@@ -1,5 +1,6 @@
 #Outdoor Weather Tracker
 
+
 Project Overview
 This is a single-page weather application that allows users to quickly retrieve current weather conditions for any city worldwide. The application demonstrates asynchronous data fetching, state management, and a responsive user interface built using modern web development practices.
 The app uses a two-step API process: first, it converts a city name into geographical coordinates (latitude/longitude), and second, it uses those coordinates to fetch the detailed weather data.
